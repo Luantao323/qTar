@@ -3,6 +3,6 @@ SLD =
 DLD = -lpthread
 OBJ = pssw/ssw_cpp.cpp pssw/ssw.c sRNATarPredictor.cpp
 
-sRNATarPredictor : ${OBJ}
+qTar : ${OBJ}
 	${GXX} -o qTar ${OBJ} ${DLD} ${SLD}
 
