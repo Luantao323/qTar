@@ -18,8 +18,9 @@ your system needs to support -lpthread. <br>
 
 ## Reference
 
-[1] Helwak A, Kudla G, Dudnakova T, Tollervey D. Mapping the Human miRNA Interactome  <br>
-    by CLASH Reveals Frequent Noncanonical Binding. Cell. 2013;153:654–65. pmid:23622248 <br>
+[1] Helwak A, Kudla G, Dudnakova T, Tollervey D. Mapping the Human miRNA Interactome
+    by CLASH Reveals Frequent Noncanonical Binding. Cell. 2013;153:654–65. pmid:23622248
+    
 [2] miRBase: annotating high confidence microRNAs using deep sequencing data. <br>
 Kozomara A, Griffiths-Jones S. NAR 2014 42:D68-D73 <br>
 [3] Xinbin Dai, Zhaohong Zhuang and Patrick X. Zhao (2018). psRNATarget: a plant  <br>
