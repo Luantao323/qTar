@@ -1,6 +1,6 @@
 ## Getting started
   
-  git clone https://github.com/zhuqianhua/qTar.git \<br>
+  git clone https://github.com/zhuqianhua/qTar.git <br>
   cd qTar
   make
   cd example
